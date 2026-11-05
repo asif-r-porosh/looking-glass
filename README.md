@@ -37,5 +37,6 @@ One thread per request. A route gate (`ip route get <dest> from <src>`) runs bef
 ## More
 
 - [INSTALLATION.md](INSTALLATION.md): server setup, config files, `-c` check.
-- [CLI.md](CLI.md): install and use the command line client.
+- [CLI.md](CLI.md): install and use the command line client. Download it from the [latest release](https://github.com/asif-r-porosh/looking-glass/releases/latest).
 - [DEV.md](DEV.md): for developers: commands, build and release, design notes.
+- [LICENSE](LICENSE): MIT.

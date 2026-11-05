@@ -4,10 +4,10 @@ A small command line client for the looking_glass server. One program, nothing t
 
 ## Install
 
-1. Download the archive for your system from the latest Release page:
-   - Windows: `looking-glass-windows-amd64.tar.gz` (most PCs) or `looking-glass-windows-arm64.tar.gz`
-   - macOS: `looking-glass-darwin-arm64.tar.gz` (Apple chip) or `looking-glass-darwin-amd64.tar.gz` (Intel)
-   - Linux: `looking-glass-linux-amd64.tar.gz` or `looking-glass-linux-arm64.tar.gz`
+1. Download the archive for your system from the [latest release](https://github.com/asif-r-porosh/looking-glass/releases/latest). These links always give the newest version:
+   - Windows: [`looking-glass-windows-amd64.tar.gz`](https://github.com/asif-r-porosh/looking-glass/releases/latest/download/looking-glass-windows-amd64.tar.gz) (most PCs) or [`looking-glass-windows-arm64.tar.gz`](https://github.com/asif-r-porosh/looking-glass/releases/latest/download/looking-glass-windows-arm64.tar.gz)
+   - macOS: [`looking-glass-darwin-arm64.tar.gz`](https://github.com/asif-r-porosh/looking-glass/releases/latest/download/looking-glass-darwin-arm64.tar.gz) (Apple chip) or [`looking-glass-darwin-amd64.tar.gz`](https://github.com/asif-r-porosh/looking-glass/releases/latest/download/looking-glass-darwin-amd64.tar.gz) (Intel)
+   - Linux: [`looking-glass-linux-amd64.tar.gz`](https://github.com/asif-r-porosh/looking-glass/releases/latest/download/looking-glass-linux-amd64.tar.gz) or [`looking-glass-linux-arm64.tar.gz`](https://github.com/asif-r-porosh/looking-glass/releases/latest/download/looking-glass-linux-arm64.tar.gz)
 2. Extract it. Windows 10 and later, macOS and Linux all have `tar`:
    ```
    tar -xzf looking-glass-windows-amd64.tar.gz
