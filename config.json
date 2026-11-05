@@ -1,0 +1,6 @@
+{
+  "listen_host": "",
+  "listen_port": 0,
+  "auth_token": "",
+  "timeouts": { "ping": 30, "traceroute": 90, "mtr": 60, "ip": 5 }
+}
